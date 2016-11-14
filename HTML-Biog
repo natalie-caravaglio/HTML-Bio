@@ -1,0 +1,38 @@
+<!-- Activity 1: Basic HTML Bio -->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Activity 1: Basic HTML Bio</title>
+</head>
+<body>
+
+	<!-- Site Header -->
+	<header>
+	<h1>Student Bio</h1>
+</header>
+
+<div>
+	<section>
+		<h2>Natalie Caravaglio</h2>
+
+		<img src="http://cdn2-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-8.jpg" alt= "Natalie Caravaglio>"
+
+			<p> I am learning to code. People say I won't be successful as a puppy, but maybe it will work out for me. People say I have "dogged" determination </p>
+		</section>
+
+		<section>
+
+			<h2>Contact Info</h2>
+
+			<ul> 
+
+				<li><strong>Email:</strong> <a href= "#">victory33@gmail.com</a></li>
+				<li><strong>Github:<strong> <a href= "#">Grapes</a></li>
+			</ul>
+
+		</section>
+	</div>
+
+</body>
+</html>
